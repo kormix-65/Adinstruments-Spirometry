@@ -176,4 +176,4 @@ This repository serves as the official landing page for ADInstruments Spirometry
 **Get the most recent version of ADInstruments Spirometry today!**
 
 ---
-**Last updated:** 2026-11-12 21:15:17 UTC
+**Last updated:** 2026-11-13 02:16:29 UTC
